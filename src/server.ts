@@ -9,7 +9,7 @@ async function bootstrap() {
         console.log('database connected');
     })
    } catch (error) {
-    console.log('database error');
+    console.log('database error ....');
    }
 
 }
