@@ -9,7 +9,8 @@ async function bootstrap() {
         console.log('database connected 4400');
     })
    } catch (error) {
-    console.log('database error ');
+
+    console.log('database error dfdf');
    }
 
 }
